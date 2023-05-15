@@ -1,1 +1,1 @@
-# amazon-web-scraper
+# Scrapy course from freecodecamp
